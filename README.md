@@ -1,3 +1,5 @@
+**This project is no longer maintained by Two Sigma. We continue to encourage independent development.**
+
 # GeoSight
 
 GeoSight is a UNICEF’s open-source geospatial web-based data visualization/analysis platform that aims to make geospatial data easily accessible and shareable in support of risk informed programming. This data is displayed utilizing administrative reference datasets from [GeoRepo](https://github.com/unicef-drp/GeoRepo-OS).
